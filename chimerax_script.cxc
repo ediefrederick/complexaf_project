@@ -1,0 +1,6 @@
+
+        open af3_predictions/fold_t1124/7ux8.pdb
+        open af3_predictions/fold_t1124/fold_t1124_model_0.cif
+        matchmaker #1:730-739 to #2:730-739
+        exit
+        
